@@ -47,9 +47,6 @@ I specialize in **Flutter, Dart, Python**, and love building scalable, reliable 
 
 ---
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanSenguptaMantisPro&show_icons=true&locale=en" alt="RohanSenguptaMantisPro" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanSenguptaMantisPro&" alt="RohanSenguptaMantisPro" /></p>
 
 ---
