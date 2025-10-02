@@ -12,7 +12,7 @@ I specialize in **Flutter, Dart, Python**, and love building scalable, reliable 
 
 ### 🧑‍💻 Work Experience
 
-- **Software Development Engineer @ Mantis Pro Gaming** (Apr 2025 – Present)    
+- **Software Development Engineer @ Mantis Pro Gaming** (Sep, 2025 – Present)    
 
 - **SDE Intern (Flutter) @ Mantis Pro Gaming** (Apr 2024 – Sept 2024)  
 
